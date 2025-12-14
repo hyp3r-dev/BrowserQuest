@@ -115,7 +115,7 @@ Can be completed in 1-3 days each:
 - 🎯 First contentful paint < 1s
 - 🎯 Time to interactive < 2s
 - 🎯 60 FPS gameplay
-- 🎯 Server latency < 50ms
+- 🎯 Server latency < 100ms
 
 ### User Experience
 - 🎯 Mobile-friendly

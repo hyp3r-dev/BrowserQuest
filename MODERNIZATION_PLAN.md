@@ -441,7 +441,7 @@ E2E Tests (Playwright):
 
 #### Performance Targets:
 - Server tick rate: 60 ticks/second
-- Message latency < 50ms
+- Message latency < 100ms (stretch goal: 50ms)
 - Support 500+ concurrent players per instance
 - Memory usage < 500MB per world
 
@@ -649,7 +649,7 @@ E2E Tests (Playwright):
 - ✅ TypeScript coverage > 90%
 - ✅ Build time < 10 seconds
 - ✅ Lighthouse score > 90
-- ✅ Server response time < 50ms
+- ✅ Server response time < 100ms (stretch: 50ms)
 - ✅ 60 FPS gameplay
 
 ### Project Metrics
