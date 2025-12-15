@@ -15,6 +15,20 @@ Changes
   * Added a demo to http://browserquest.codevolution.com
   * A few minor edits to server side handling
 
+Modernization Plan
+============
+🚀 **We have a comprehensive plan to modernize this game!**
+
+- 📋 [**Quick Summary**](MODERNIZATION_SUMMARY.md) - Fast overview of the modernization roadmap
+- 📚 [**Complete Plan**](MODERNIZATION_PLAN.md) - Detailed 18-week modernization strategy
+
+Key improvements planned:
+- Modern JavaScript (ES6+) and TypeScript
+- Updated dependencies (Socket.IO v4, Vite bundler)
+- Comprehensive testing infrastructure
+- Enhanced performance and security
+- Better developer experience
+
 TODO
 ============
   * Quest system and more awesome features
